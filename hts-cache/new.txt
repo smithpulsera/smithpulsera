@@ -1,3 +1,1 @@
-date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
-19:58:12	134/134	---M--	301	error ('Moved%20Permanently')	text/html	date:Tue,%2005%20Dec%202023%2000:58:11%20GMT	http://smspulsera.framer.ai/robots.txt		(from )
-19:58:12	134/134	---M--	301	error ('Moved%20Permanently')	text/html	date:Tue,%2005%20Dec%202023%2000:58:12%20GMT	http://smspulsera.framer.ai/	/Users/landonrogers/websites/psera/smspulsera.framer.ai/index.html	(from )
+
